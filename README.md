@@ -78,7 +78,7 @@ Run Script To Get Geo Data From Attackers:  <br/>
 <img src="https://i.imgur.com/JMctSIN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create Custom Log In LAW To Bring In The Custom Log:  <br/>
+Create Custom Log In Log Analytics Workspace To Bring In The Custom Log:  <br/>
 <img src="https://i.imgur.com/CjYMwes.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/BxQNEMa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/bDu0Ib1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

@@ -8,6 +8,7 @@ Project consisted of configuring Azure Sentinel (Microsoft's cloud SIEM) workboo
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
+- <b>Microsoft Azure</b> 
 - <b>ipgeolocation.io: IP Address to Geolocation API</b>
 
 <h2>Environments Used </h2>

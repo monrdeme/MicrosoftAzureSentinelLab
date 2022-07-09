@@ -1,7 +1,7 @@
 <h1>Microsoft Azure Sentinel (SIEM) Lab</h1>
 
  <h2>Description</h2>
-Project consisted of configuring Azure Sentinel (Microsoft's cloud SIEM) workbook to display global attack data (RDP brute force) on a world map according to physical location and magnitude of attacks. A custom PowerShell script was used to extract metadata from Windows Event Viewer to be forwarded to a third party API in order to derive geolocation data
+Project consisted of configuring Azure Sentinel (Microsoft's cloud SIEM) workbook to display global attack data (RDP brute force) on a world map according to physical location and magnitude of attacks. A custom PowerShell script was used to extract metadata from Windows Event Viewer to be forwarded to a third party API in order to derive geolocation data.
 <br />
 
 
